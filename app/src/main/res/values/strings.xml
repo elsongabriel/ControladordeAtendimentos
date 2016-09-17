@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Controlador de Atendimentos</string>
+    <string name="drawer_open">Selecione uma Opção</string>
+
 </resources>
